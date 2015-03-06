@@ -1,5 +1,5 @@
 
-# Hyptheseses
+# Hypotheseses
 
 
 ## Thing one
@@ -15,3 +15,4 @@
 * some things work
 * other things don't work
 
+##ben this is crazy...how will i ever learn this? 
